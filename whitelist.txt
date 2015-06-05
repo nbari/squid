@@ -1,0 +1,3 @@
+.googleapis.com
+.google.com
+.gstatic.com
